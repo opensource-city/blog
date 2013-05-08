@@ -1,3 +1,5 @@
+![](https://secure.gravatar.com/avatar/75021c22fa3eeeec2f5c9cd600b759c2?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png)
+
 ## 开源城市计划
 
 ### 让互联网改变公共服务
